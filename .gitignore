@@ -1,1 +1,4 @@
 dupcl/
+reset.bat
+logs/
+__pycache__/

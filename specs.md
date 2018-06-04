@@ -15,4 +15,4 @@ __Language:__ Python 3
     - date created
     - same file name
 - groups file duplicates
-- simplistic UI, mostly terminal-based
+- simplistic UI, terminal-based
