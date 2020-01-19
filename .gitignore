@@ -2,3 +2,4 @@ dupcl/
 reset.bat
 logs/
 __pycache__/
+*.pyc

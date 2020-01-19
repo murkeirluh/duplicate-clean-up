@@ -3,7 +3,6 @@ _v. 1.0 draft specs_
 
 __Language:__ Python 3
 
-
 ## Minimum specifications:
 - select what type of files to scan for 
     - audio
